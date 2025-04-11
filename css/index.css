@@ -1,0 +1,73 @@
+#index-1 {
+    background-image: url('../images/curp-background.webp');   
+}
+
+#index-2 {
+    background-image: url('../images/documentos-oficiales.webp');
+}
+
+#index-3 {
+    background-image: url('../images/tecnologia-curp.webp');
+}
+
+#index-4 {
+    background-image: url('../images/identificador-unico.webp');
+}
+
+#index-5 {
+    background-image: url('../images/curp-extranjeros.webp');
+}
+
+#index-6 {
+    background-image: url('../images/tramites-digitales.webp');
+}
+
+#index-7 {
+    background-image: url('../images/seguridad-datos.webp');
+}
+
+#index-8 {
+    background-image: url('../images/errores-curp.webp');
+}
+
+#index-9 {
+    background-image: url('../images/curp-futuro.webp');
+}
+
+@media (max-width: 600px) {
+    #index-1 {
+        background-image: url('../images/400/curp-background.webp');   
+    }
+    
+    #index-2 {
+        background-image: url('../images/400/documentos-oficiales.webp');
+    }
+    
+    #index-3 {
+        background-image: url('../images/400/tecnologia-curp.webp');
+    }
+    
+    #index-4 {
+        background-image: url('../images/400/identificador-unico.webp');
+    }
+    
+    #index-5 {
+        background-image: url('../images/400/curp-extranjeros.webp');
+    }
+    
+    #index-6 {
+        background-image: url('../images/400/tramites-digitales.webp');
+    }
+    
+    #index-7 {
+        background-image: url('../images/400/seguridad-datos.webp');
+    }
+    
+    #index-8 {
+        background-image: url('../images/400/errores-curp.webp');
+    }
+    
+    #index-9 {
+        background-image: url('../images/400/curp-futuro.webp');
+    }
+}
