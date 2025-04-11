@@ -1,0 +1,33 @@
+#satelites-1 {
+    background-image: url('../images/satelites-mexicanos.webp');
+}
+
+#satelites-2 {
+    background-image: url('../images/internet-rural.webp');
+}
+
+#satelites-3 {
+    background-image: url('../images/teleducacion-satelital.webp');
+}
+
+#satelites-4 {
+    background-image: url('../images/telemedicina-rural.webp');
+}
+
+@media (max-width: 600px) {
+    #satelites-1 {
+        background-image: url('../images/400/satelites-mexicanos.webp');
+    }
+
+    #satelites-2 {
+        background-image: url('../images/400/internet-rural.webp');
+    }
+
+    #satelites-3 {
+        background-image: url('../images/400/teleducacion-satelital.webp');
+    }
+
+    #satelites-4 {
+        background-image: url('../images/400/telemedicina-rural.webp');
+    }
+}

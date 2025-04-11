@@ -1,0 +1,33 @@
+#participacion-1 {
+    background-image: url('../images/peticiones-online.webp');
+}
+
+#participacion-2 {
+    background-image: url('../images/apps-denuncia.webp');
+}
+
+#participacion-3 {
+    background-image: url('../images/consultas-digitales.webp');
+}
+
+#participacion-4 {
+    background-image: url('../images/datos-publicos.webp');
+}
+
+@media (max-width: 600px) {
+    #participacion-1 {
+        background-image: url('../images/400/peticiones-online.webp');
+    }
+
+    #participacion-2 {
+        background-image: url('../images/400/apps-denuncia.webp');
+    }
+
+    #participacion-3 {
+        background-image: url('../images/400/consultas-digitales.webp');
+    }
+
+    #participacion-4 {
+        background-image: url('../images/400/datos-publicos.webp');
+    }
+}

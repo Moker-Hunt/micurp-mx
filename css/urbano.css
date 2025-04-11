@@ -1,0 +1,33 @@
+#urbano-1 {
+    background-image: url('../images/smart-cities.webp');
+}
+
+#urbano-2 {
+    background-image: url('../images/public-wifi.webp');
+}
+
+#urbano-3 {
+    background-image: url('../images/digital-payment.webp');
+}
+
+#urbano-4 {
+    background-image: url('../images/security-cameras.webp');
+}
+
+@media (max-width: 600px) {
+    #urbano-1 {
+        background-image: url('../images/400/smart-cities.webp');
+    }
+
+    #urbano-2 {
+        background-image: url('../images/400/public-wifi.webp');
+    }
+
+    #urbano-3 {
+        background-image: url('../images/400/digital-payment.webp');
+    }
+
+    #urbano-4 {
+        background-image: url('../images/400/security-cameras.webp');
+    }
+}

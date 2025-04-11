@@ -1,0 +1,49 @@
+#global-1 {
+    background-image: url('../images/identidad-pre-digital.webp');
+}
+
+#global-2 {
+    background-image: url('../images/modelos-regionales.webp');
+}
+
+#global-3 {
+    background-image: url('../images/documentos-digitales.webp');
+}
+
+#global-4 {
+    background-image: url('../images/comparacion-sistemas.webp');
+}
+
+#global-5 {
+    background-image: url('../images/desafios-globales.webp');
+}
+
+#global-6 {
+    background-image: url('../images/identidad-universal.webp');
+}
+
+@media (max-width: 600px) {
+    #global-1 {
+        background-image: url('../images/400/identidad-pre-digital.webp');
+    }
+
+    #global-2 {
+        background-image: url('../images/400/modelos-regionales.webp');
+    }
+
+    #global-3 {
+        background-image: url('../images/400/documentos-digitales.webp');
+    }
+
+    #global-4 {
+        background-image: url('../images/400/comparacion-sistemas.webp');
+    }
+
+    #global-5 {
+        background-image: url('../images/400/desafios-globales.webp');
+    }
+
+    #global-6 {
+        background-image: url('../images/400/identidad-universal.webp');
+    }
+}

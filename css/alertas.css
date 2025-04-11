@@ -1,0 +1,41 @@
+#alertas-1 {
+    background-image: url('../images/alerta-sismica.webp');
+}
+
+#alertas-2 {
+    background-image: url('../images/monitoreo-volcanes.webp');
+}
+
+#alertas-3 {
+    background-image: url('../images/redes-sensores.webp');
+}
+
+#alertas-4 {
+    background-image: url('../images/apps-emergencias.webp');
+}
+
+#alertas-5 {
+    background-image: url('../images/mapas-riesgo.webp');
+}
+
+@media (max-width: 600px) {
+    #alertas-1 {
+        background-image: url('../images/400/alerta-sismica.webp');
+    }
+
+    #alertas-2 {
+        background-image: url('../images/400/monitoreo-volcanes.webp');
+    }
+
+    #alertas-3 {
+        background-image: url('../images/400/redes-sensores.webp');
+    }
+
+    #alertas-4 {
+        background-image: url('../images/400/apps-emergencias.webp');
+    }
+
+    #alertas-5 {
+        background-image: url('../images/400/mapas-riesgo.webp');
+    }
+}

@@ -1,0 +1,41 @@
+#educacion-1 {
+    background-image: url('../images/plataformas-educativas.webp');
+}
+
+#educacion-2 {
+    background-image: url('../images/clases-virtuales-rurales.webp');
+}
+
+#educacion-3 {
+    background-image: url('../images/capacitacion-docente.webp');
+}
+
+#educacion-4 {
+    background-image: url('../images/dispositivos-aula.webp');
+}
+
+#educacion-5 {
+    background-image: url('../images/recursos-discapacidad.webp');
+}
+
+@media (max-width: 600px) {
+    #educacion-1 {
+        background-image: url('../images/400/plataformas-educativas.webp');
+    }
+
+    #educacion-2 {
+        background-image: url('../images/400/clases-virtuales-rurales.webp');
+    }
+
+    #educacion-3 {
+        background-image: url('../images/400/capacitacion-docente.webp');
+    }
+
+    #educacion-4 {
+        background-image: url('../images/400/dispositivos-aula.webp');
+    }
+
+    #educacion-5 {
+        background-image: url('../images/400/recursos-discapacidad.webp');
+    }
+}

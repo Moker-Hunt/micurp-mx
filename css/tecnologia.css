@@ -1,0 +1,57 @@
+#tecnologia-1 {
+    background-image: url('../images/smartphones-impact.webp');
+}
+
+#tecnologia-2 {
+    background-image: url('../images/social-networks.webp');
+}
+
+#tecnologia-3 {
+    background-image: url('../images/remote-work.webp');
+}
+
+#tecnologia-4 {
+    background-image: url('../images/gov-apps.webp');
+}
+
+#tecnologia-5 {
+    background-image: url('../images/online-education.webp');
+}
+
+#tecnologia-6 {
+    background-image: url('../images/digital-risks.webp');
+}
+
+#tecnologia-7 {
+    background-image: url('../images/future-tech.webp');
+}
+
+@media (max-width: 600px) {
+    #tecnologia-1 {
+        background-image: url('../images/400/smartphones-impact.webp');
+    }
+
+    #tecnologia-2 {
+        background-image: url('../images/400/social-networks.webp');
+    }
+
+    #tecnologia-3 {
+        background-image: url('../images/400/remote-work.webp');
+    }
+
+    #tecnologia-4 {
+        background-image: url('../images/400/gov-apps.webp');
+    }
+
+    #tecnologia-5 {
+        background-image: url('../images/400/online-education.webp');
+    }
+
+    #tecnologia-6 {
+        background-image: url('../images/400/digital-risks.webp');
+    }
+
+    #tecnologia-7 {
+        background-image: url('../images/400/future-tech.webp');
+    }
+}

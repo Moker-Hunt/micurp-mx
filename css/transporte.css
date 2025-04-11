@@ -1,0 +1,33 @@
+#transporte-1 {
+    background-image: url('../images/tarjetas-inteligentes.webp');
+}
+
+#transporte-2 {
+    background-image: url('../images/rutas-gps.webp');
+}
+
+#transporte-3 {
+    background-image: url('../images/movilidad-compartida.webp');
+}
+
+#transporte-4 {
+    background-image: url('../images/bicicletas-electricas.webp');
+}
+
+@media (max-width: 600px) {
+    #transporte-1 {
+        background-image: url('../images/400/tarjetas-inteligentes.webp');
+    }
+
+    #transporte-2 {
+        background-image: url('../images/400/rutas-gps.webp');
+    }
+
+    #transporte-3 {
+        background-image: url('../images/400/movilidad-compartida.webp');
+    }
+
+    #transporte-4 {
+        background-image: url('../images/400/bicicletas-electricas.webp');
+    }
+}

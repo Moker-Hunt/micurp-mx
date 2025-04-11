@@ -1,0 +1,33 @@
+#contacto-1 {
+    background-image: url('../images/contact-info.webp');
+}
+
+#contacto-2 {
+    background-image: url('../images/contact-purpose.webp');
+}
+
+#contacto-3 {
+    background-image: url('../images/contact-faq.webp');
+}
+
+#contacto-4 {
+    background-image: url('../images/contact-privacy.webp');
+}
+
+@media (max-width: 600px) {
+    #contacto-1 {
+        background-image: url('../images/400/contact-info.webp');
+    }
+
+    #contacto-2 {
+        background-image: url('../images/400/contact-purpose.webp');
+    }
+
+    #contacto-3 {
+        background-image: url('../images/400/contact-faq.webp');
+    }
+
+    #contacto-4 {
+        background-image: url('../images/400/contact-privacy.webp');
+    }
+}
